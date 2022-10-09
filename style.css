@@ -1,0 +1,64 @@
+body {
+  background-color: bisque;
+  font-family: "Open Sans" , sans-serif;
+  letter-spacing: 2px;
+}
+
+.profile-picture{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-top: 4%;
+  height: auto;
+  max-width: 100px;
+
+  border-radius: 50%;
+}
+
+.profile-name{
+  text-align: center;
+  padding: 30px;
+  font-size: 32px;
+}
+
+.aryan{
+  text-align: center;
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.links{
+  text-align: center;
+  margin-top: 20px;
+  border: 1px solid beige;
+  border-width: 2px;
+  padding: 25px;
+
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 40px;
+  font-size: 20px;
+  background-color: black;
+}
+
+a{
+  text-decoration: none;
+  color:azure;
+  transition: color 1s;
+}
+
+a:hover{
+  color:blue;
+  background-color:burlywood;
+}
+
+.op{
+  text-align: center;
+  font-size: 22px;
+  font-weight: normal;
+  padding: 35px;
+}
